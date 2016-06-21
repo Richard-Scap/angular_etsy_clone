@@ -1,0 +1,10 @@
+{
+  "appId": "angetsycl0ne",
+  "apiKey": "ffd93b190ffb05d648195ffd5311659ae05983bd3737281c32c340b6a695dfba",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

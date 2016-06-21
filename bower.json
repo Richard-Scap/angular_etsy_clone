@@ -1,0 +1,24 @@
+{
+  "name": "angetsycl0ne",
+  "authors": [
+    "Richard-Scap <scap222@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/richard-scap/angetsycl0ne",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootswatch": "^3.3.6+2",
+    "stamplay-js-sdk": "^2.0.7",
+    "angular": "^1.5.7",
+    "angular-stamplay": "^0.0.2",
+    "angular-ui-router": "ui-router#^0.3.1"
+  }
+}
